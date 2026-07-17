@@ -6,7 +6,7 @@ Production-ready Nuxt template optimized for AI-assisted development and Deployx
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-nuxt&template=nuxt&framework=nuxt&branch=main&name=deployxa-nuxt&runtime=Node.js+20&package_manager=npm&build_command=npm+run+build&start_command=node+.output%2Fserver%2Findex.mjs&dockerfile=Dockerfile&version=1.0.0&build_time=60s&image_size=250MB&env_vars=NODE_ENV%2CPORT)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https://github.com/deployxa-templates/deployxa-nuxt)
 
 ### Or deploy using the CLI
 

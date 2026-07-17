@@ -1,3 +1,1 @@
-export default defineEventHandler(() => {
-  return { status: 'healthy', timestamp: new Date().toISOString() }
-})
+export default defineEventHandler(() => ({ status: 'ok' }))

@@ -1,8 +1,4 @@
 node_modules
-.nuxt
-.output
 .git
 .github
 README.md
-Dockerfile
-docker-compose.yml

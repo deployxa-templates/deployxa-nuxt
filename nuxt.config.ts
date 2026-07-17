@@ -1,6 +1,1 @@
-export default defineNuxtConfig({
-  devtools: { enabled: false },
-  typescript: {
-    strict: true
-  }
-})
+export default defineNuxtConfig({ typescript: { strict: true } })
